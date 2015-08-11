@@ -50,3 +50,6 @@ src:
 |         10 | 2015/08/09 22:35:35:068 |   1   |    LMS     | turn on READING     |                         thread1-01-00005 |
 |         11 | 2015/08/09 22:35:35:068 |   1   |    LMS     | turn on READING     |                         thread1-01-00006 |
 ```
+
+
+## 使用文档：[日志类 Logger](https://zybuluo.com/gnat-xj/note/150237)
