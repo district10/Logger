@@ -1,6 +1,8 @@
 Logger
 ======
 
+一个日志类。输出为 Markdown 格式的表格。
+
 ## Libs
 
 * Boost
